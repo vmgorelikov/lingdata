@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="Гореликов, Гореликов ВШЭ, ВШЭ Гореликов, Гореликов В.М., В.М. Гореликов">
-    <meta name="description" content="Родился и живу в Москве. Люблю лингвистику и фотошоп. Говорю на английском и фильтрах FFMPEG.">
+    <meta name="description" content="Обо мне, портфолио, услуги, как связаться">
     <link rel="icon" type="image/png" href="data:file/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA4ElEQVRYw+1WQQ7DIAwjFf//sneYulFGSAwRVFpzqooiW8ZxkPQupE11pM31EMgjTcDVMiIyTEAsE9ZgNIBBTiUwC+wl8R8m7Km5TAGNxJMDSwmc1wDg8y3fM5gj0zOT1mf1ZAbsBGkloQbUO1Oj2KOGpUAptysJI5OPIX2fKZjZaBEEZIf8PzmwSoUCR46GISnHs6RL8BYo2NBhpqcGb+WA+UIKeKyIaxeM+KHXo53lDkuwpBzKiPmj9kNEQrbu3ut8WIuJMKy4JIlUwgJnZh8RIzdDgCLhBR/ZARidd61eTtFlRnIWxGwAAAAASUVORK5CYII=">
     <style>
         * { margin: 0%;
@@ -37,19 +37,14 @@ h1, h2, h3, h4, p, ul, li, a, footer {
         ul {list-style-type: none}
         img {width: 100%; max-width: 100vw}
         h1 {font-family: 'Times New Roman', 'FreeSerif', Times, serif; text-align: center; font-size: 24pt; font-weight: bold}
-        h2 {margin-top: 12pt; padding-bottom: 3pt; font-weight: bold; font-size: large; text-align: center; border-bottom: thin solid gray}
+        h2 {margin-top: 12pt; padding-bottom: 3pt; font-weight: bold; font-size: 13.5pt; text-align: center; border-bottom: thin solid gray}
         h3 {color: gray; margin-top: 3pt}
         #links h2 {font-weight: normal; color: gray; border-bottom: thin solid lightgray; text-align: left}
         li {margin-top: 3pt}
         main {display: flex}
-        #nontrivia { font-size: 12pt; font-style: italic; font-family: sans-serif; text-align: justify; hyphens: auto}
-        @media (aspect-ratio<1/1) {
-            body {margin: 1vh 5vw}
-            main {flex-direction: column}
-            #nontrivia {text-align: center}
-            img {display: inline; max-height: 50vh; width: auto; margin: auto}
-        }
-        @media (min-aspect-ratio: 1/1) {
+        #nontrivia p { font-size: 12pt; font-style: italic; font-family: sans-serif; text-align: justify; hyphens: auto; padding-top: 3pt;}
+        @media (min-width: 23cm) {
+            img {padding-top: 28pt}
             body {margin: 5vh 5%}
             article, aside {margin: 1cm}
             article { max-width: 17cm}
@@ -58,13 +53,23 @@ h1, h2, h3, h4, p, ul, li, a, footer {
             #links{margin-right: auto}
             main {flex-direction: row}
         }
+        @media (width < 27.5cm){
+            
+            article, aside {margin-left: 0.25cm; margin-right: 0.25cm;}
+        }
+        @media (width<23cm) {
+            body {margin: 1vh 5vw}
+            main {flex-direction: column}
+            #nontrivia p {text-align: center}
+            img {display: block; max-height: 50vh; width: auto; margin: auto}
+        }
     </style>
 </head>
 <body>
     <header><h1>Владимир Михайлович Гореликов</h1></header>
     <main>
     <aside id="nontrivia">
-        <img src="leme.jpg" alt="Мой чёрно-белый фотопортрет."><br>Родился и живу в Москве. Люблю лингвистику и фотошоп. Говорю на английском и фильтрах FFMPEG.
+        <img src="leme.jpg" alt="Мой чёрно-белый фотопортрет."><p>Родился и живу в Москве. Люблю лингвистику и фотошоп. Говорю на английском и фильтрах FFMPEG.</p>
     </aside>
     <article>
         <section>
