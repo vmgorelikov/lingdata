@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-05T01:51:37+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-05T12:22:03+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///G:/Bryansk_nkt1949_life.avi"
+            MEDIA_URL="file:///D:/Bryansk_nkt1949_life.avi"
             MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./Bryansk_nkt1949_life.avi"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d1cdf001-026b-4bbd-a065-84301c63334e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">278</PROPERTY>
@@ -1250,8 +1250,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a80" CVE_REF="cveid_20f78059-d2e8-4f05-b5e1-5ecdb74f5fb8">
-                <ANNOTATION_VALUE>PRON</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a80" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
+                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1285,8 +1285,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a87">
-                <ANNOTATION_VALUE/>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a87" CVE_REF="cveid_8a74b182-866f-46f3-9126-0f6a9dace506">
+                <ANNOTATION_VALUE>PRAEDIC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1525,8 +1525,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a133" CVE_REF="cveid_2292f705-1fd8-4a21-b894-6184c91e752f">
-                <ANNOTATION_VALUE>INTJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a133" CVE_REF="cveid_8a74b182-866f-46f3-9126-0f6a9dace506">
+                <ANNOTATION_VALUE>PRAEDIC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
