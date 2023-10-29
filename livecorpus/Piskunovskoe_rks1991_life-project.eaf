@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-29T00:06:07+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-29T03:17:19+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///D:/temp/Piskunovskoe_rks1991_life.avi"
             MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./Piskunovskoe_rks1991_life.avi"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6530a9a2-b020-4b86-8c40-4e928d4c33b4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4306</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">4308</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1056838"/>
@@ -1344,11 +1344,13 @@
         <TIME_SLOT TIME_SLOT_ID="ts1332" TIME_VALUE="1413801"/>
         <TIME_SLOT TIME_SLOT_ID="ts1333" TIME_VALUE="1413922"/>
         <TIME_SLOT TIME_SLOT_ID="ts1334" TIME_VALUE="1414257"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1335" TIME_VALUE="1414424"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1336" TIME_VALUE="1414875"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1337" TIME_VALUE="1414943"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1338" TIME_VALUE="1415248"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1339" TIME_VALUE="1415481"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1335" TIME_VALUE="1414391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1336" TIME_VALUE="1414424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1337" TIME_VALUE="1414464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1338" TIME_VALUE="1414875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1339" TIME_VALUE="1414943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1340" TIME_VALUE="1414976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1341" TIME_VALUE="1415481"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="vmgorelikov" LINGUISTIC_TYPE_REF="gesture"
         PARTICIPANT="@rks1991m" TIER_ID="gesture@rks1991m">
@@ -1577,691 +1579,697 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4077"
                 TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts279">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>всплескивает руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4078"
                 TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts285">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>приподнимает и приопускает руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4079"
                 TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts289">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает руками от себя вперёд направа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4080"
                 TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts294">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>левой рукой описывает арковидную форму</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4081"
                 TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts299">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает на себя</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4082"
                 TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts304">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>потряхивает ладонями в воздухе, продвигая их вперёд</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4083"
                 TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts309">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт один раз ладонями перед собой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4084"
                 TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts317">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>легко ударяет левой рукой по ноге, боковой стороной ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4085"
                 TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts328">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>рубит воздух на ноге левой рукой, большой палец загнут</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4086"
                 TIME_SLOT_REF1="ts329" TIME_SLOT_REF2="ts333">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет левой рукой по ноге, боковой стороной ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4087"
                 TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts340">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>махает правой рукой, кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4088"
                 TIME_SLOT_REF1="ts341" TIME_SLOT_REF2="ts346">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>медленно махает правой рукой, останавливая её в воздухе, кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4089"
                 TIME_SLOT_REF1="ts347" TIME_SLOT_REF2="ts355">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>расставляет по порядку перед собой сначала левую, затем правую ладонь</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4090"
                 TIME_SLOT_REF1="ts357" TIME_SLOT_REF2="ts363">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сбрасывает руки, пальцы растопырены</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4091"
                 TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts368">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт кистями, сводит, сгибая, пальцы</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4092"
                 TIME_SLOT_REF1="ts369" TIME_SLOT_REF2="ts373">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>приводит ладони к себе, затем отбрасывает, растопыривая пальцы, кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4093"
                 TIME_SLOT_REF1="ts379" TIME_SLOT_REF2="ts382">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>два пальца в держащем положении, отводит левую руку арковидным движением налево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4094"
                 TIME_SLOT_REF1="ts383" TIME_SLOT_REF2="ts391">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>вращает правой ладонью трижды, обе руки поочерёдно совместно, но на расстоянии, двигаются налево, направо, направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4095"
                 TIME_SLOT_REF1="ts392" TIME_SLOT_REF2="ts395">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>отводит ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4096"
                 TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts399">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает ладони вниз, перебирает пальцами обеих рук</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4097"
                 TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts403">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает правую ладонь лицом к себе, левую лицом вверх и продвигает вперёд</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4098"
                 TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts413">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сгибает большие пальцы, трясёт правой ладонью, мотает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4099"
                 TIME_SLOT_REF1="ts414" TIME_SLOT_REF2="ts426">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>дважды откидывает руки, направлены лицом к себе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4100"
                 TIME_SLOT_REF1="ts475" TIME_SLOT_REF2="ts494">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает ладони наружу и обратно дважды, трясёт руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4101"
                 TIME_SLOT_REF1="ts499" TIME_SLOT_REF2="ts502">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает правый указательный палец вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4102"
                 TIME_SLOT_REF1="ts511" TIME_SLOT_REF2="ts516">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>дважды откидывает от себя руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4103"
                 TIME_SLOT_REF1="ts517" TIME_SLOT_REF2="ts521">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт один раз руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4104"
                 TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts529">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>подносит руки к голове, поворачивает ладони лицом вперёд, опускает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4105"
                 TIME_SLOT_REF1="ts531" TIME_SLOT_REF2="ts535">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>двигает пальцами в группах по два, левую руку поднимает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4106"
                 TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts539">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кисть правой руки поворачивает наружу, левую опускает и поворячивает лицом к себе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4107"
                 TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts543">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает, показывая тыльной стороной, левую ладонь</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4108"
                 TIME_SLOT_REF1="ts545" TIME_SLOT_REF2="ts546">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>правой рукой очерчивает арковидную фигуру направо, как при поглаживании</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4109"
                 TIME_SLOT_REF1="ts549" TIME_SLOT_REF2="ts552">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>бросает руки вперёд, кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4110"
                 TIME_SLOT_REF1="ts555" TIME_SLOT_REF2="ts559">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>двигает руки вниз, сохраняя ориентацию ладоней</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4111"
                 TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts566">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает головой вправо, наклоняет кисти к себе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4112"
                 TIME_SLOT_REF1="ts567" TIME_SLOT_REF2="ts568">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает ладони лицом вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4113"
                 TIME_SLOT_REF1="ts569" TIME_SLOT_REF2="ts578">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>перебирает руками поочерёдно вверх и вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4114"
                 TIME_SLOT_REF1="ts579" TIME_SLOT_REF2="ts585">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>приподнимает кисти</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4115"
                 TIME_SLOT_REF1="ts586" TIME_SLOT_REF2="ts588">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает левую кисть внутрь, тыльной стороной вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4116"
                 TIME_SLOT_REF1="ts590" TIME_SLOT_REF2="ts593">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>приподнимает кисти</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4117"
                 TIME_SLOT_REF1="ts594" TIME_SLOT_REF2="ts604">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>продвигает, ударяя по воздуху и поворачивая лицом вниз, левую ладонь направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4118"
                 TIME_SLOT_REF1="ts605" TIME_SLOT_REF2="ts611">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает и опускает броском левую руку</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4119"
                 TIME_SLOT_REF1="ts616" TIME_SLOT_REF2="ts622">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>дважды броском опускает правую кисть</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4120"
                 TIME_SLOT_REF1="ts629" TIME_SLOT_REF2="ts636">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сводит и немного разводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4121"
                 TIME_SLOT_REF1="ts639" TIME_SLOT_REF2="ts645">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает руками небольшой округлый объект перед собой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4122"
                 TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts650">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает ладони вокруг воображаемого округлого объекта</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4123"
                 TIME_SLOT_REF1="ts653" TIME_SLOT_REF2="ts658">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони лицом вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4124"
                 TIME_SLOT_REF1="ts661" TIME_SLOT_REF2="ts664">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сгибает пальцы к себе, ладони направлены вверх лицом, трясёт кистями</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4125"
                 TIME_SLOT_REF1="ts666" TIME_SLOT_REF2="ts674">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает руками округлый объект</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4126"
                 TIME_SLOT_REF1="ts677" TIME_SLOT_REF2="ts681">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>дёргает ногой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4127"
                 TIME_SLOT_REF1="ts683" TIME_SLOT_REF2="ts686">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сводит ладони, одна немного проходит под другой, показывая налево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4128"
                 TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts695">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони лицом вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4129"
                 TIME_SLOT_REF1="ts703" TIME_SLOT_REF2="ts706">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает левой рукой вниз пальцем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4130"
                 TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts717">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони лицом вверх, сводит обратно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4131"
                 TIME_SLOT_REF1="ts719" TIME_SLOT_REF2="ts724">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает и бросает правую руку</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4132"
                 TIME_SLOT_REF1="ts727" TIME_SLOT_REF2="ts735">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт правой ладонью, оттопырив три пальца</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4133"
                 TIME_SLOT_REF1="ts738" TIME_SLOT_REF2="ts744">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>описывая арковидную фигуру перекладывает левую руку направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4134"
                 TIME_SLOT_REF1="ts753" TIME_SLOT_REF2="ts759">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит и затем ударом, слагая, сводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4135"
                 TIME_SLOT_REF1="ts763" TIME_SLOT_REF2="ts766">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>раскрывает и закрывает сложенные ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4136"
                 TIME_SLOT_REF1="ts775" TIME_SLOT_REF2="ts777">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет по ноге правой рукой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4137"
                 TIME_SLOT_REF1="ts778" TIME_SLOT_REF2="ts782">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит руки и протягивает перед собой вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4138"
                 TIME_SLOT_REF1="ts783" TIME_SLOT_REF2="ts790">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>описывает круговую фигуру левой кистью</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4139"
                 TIME_SLOT_REF1="ts795" TIME_SLOT_REF2="ts800">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>показывает левой рукой вперёд налево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4140"
                 TIME_SLOT_REF1="ts804" TIME_SLOT_REF2="ts808">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>раскрывает и закрывает ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4141"
                 TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts815">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает влево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4142"
                 TIME_SLOT_REF1="ts819" TIME_SLOT_REF2="ts822">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>в два шага раскрывает ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4143"
                 TIME_SLOT_REF1="ts823" TIME_SLOT_REF2="ts829">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт обращёнными лицом вверх ладонями</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4144"
                 TIME_SLOT_REF1="ts830" TIME_SLOT_REF2="ts836">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>легко бьёт боковой стороной левой ладони по правой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4145"
                 TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts846">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает вперёд, с силой, и направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4146"
                 TIME_SLOT_REF1="ts847" TIME_SLOT_REF2="ts854">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>дважды кивает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4147"
                 TIME_SLOT_REF1="ts867" TIME_SLOT_REF2="ts871">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>раскрывает ладони, затем сводит, левая оказывается сверху</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4148"
                 TIME_SLOT_REF1="ts897" TIME_SLOT_REF2="ts898">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>оттопыривает правый большой палец</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4149"
                 TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts931">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разворачивает правую кисть наружу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4150"
                 TIME_SLOT_REF1="ts933" TIME_SLOT_REF2="ts937">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает руку, ударяет тыльной стороной левой ладони по лицевой правой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4151"
                 TIME_SLOT_REF1="ts945" TIME_SLOT_REF2="ts948">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает влево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4152"
                 TIME_SLOT_REF1="ts955" TIME_SLOT_REF2="ts959">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит и сводит ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4153"
                 TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts966">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает влево, разводит ладони и ударяет левой по правой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4154"
                 TIME_SLOT_REF1="ts971" TIME_SLOT_REF2="ts976">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет левой ладонью по правой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4155"
                 TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts981">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>хлопает в ладоши</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4156"
                 TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts989">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поочерёдно ударяет боковой стороной левой и правой кистей по ногам</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4157"
                 TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts999">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони, описывая две полуокружности</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4158"
                 TIME_SLOT_REF1="ts1001" TIME_SLOT_REF2="ts1012">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>трясёт кистями, сводя и разводя их</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4159"
                 TIME_SLOT_REF1="ts1017" TIME_SLOT_REF2="ts1020">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит и сводит ладони, описывая две полуокружности</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4160"
                 TIME_SLOT_REF1="ts1029" TIME_SLOT_REF2="ts1034">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони,обращая обе лицом вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4161"
                 TIME_SLOT_REF1="ts1044" TIME_SLOT_REF2="ts1049">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>слабо ударяет пальцами правой руки по левой ладони, немного отводит правую ладонь</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4162"
                 TIME_SLOT_REF1="ts1052" TIME_SLOT_REF2="ts1059">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>меняет наклон правой ладони, примерно перпендикулярной полу, соответственно кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4163"
                 TIME_SLOT_REF1="ts1062" TIME_SLOT_REF2="ts1066">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разворачивает правую ладонь наружу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4164"
                 TIME_SLOT_REF1="ts1069" TIME_SLOT_REF2="ts1073">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>махает правой ладонью</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4165"
                 TIME_SLOT_REF1="ts1074" TIME_SLOT_REF2="ts1078">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>делает бросающее движение правой ладонью, кивает направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4166"
                 TIME_SLOT_REF1="ts1080" TIME_SLOT_REF2="ts1096">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>рубит с малым размахом правой ладонью воздух</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4167"
                 TIME_SLOT_REF1="ts1098" TIME_SLOT_REF2="ts1102">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет правой кистью по ноге</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4168"
                 TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1106">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет правой ладонью по кончикам пальцев левой руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4169"
                 TIME_SLOT_REF1="ts1113" TIME_SLOT_REF2="ts1117">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит и сводит ладони</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4170"
                 TIME_SLOT_REF1="ts1130" TIME_SLOT_REF2="ts1132">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает влево</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4171"
                 TIME_SLOT_REF1="ts1135" TIME_SLOT_REF2="ts1140">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поднимает и протягивает левую руку вперёд</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4172"
                 TIME_SLOT_REF1="ts1143" TIME_SLOT_REF2="ts1148">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет левой кистью по правой, ладонь направлена вперёд и лицом направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4173"
                 TIME_SLOT_REF1="ts1159" TIME_SLOT_REF2="ts1161">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>немного поворачивает левую ладонь вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4174"
                 TIME_SLOT_REF1="ts1163" TIME_SLOT_REF2="ts1166">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет левой кистью по правой немного выше места, где она покоилась, левая ладонь развёрнута вверх</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4175"
                 TIME_SLOT_REF1="ts1179" TIME_SLOT_REF2="ts1187">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>растопыривает пальцы ладоней скрещеных рук, затем разводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4176"
                 TIME_SLOT_REF1="ts1192" TIME_SLOT_REF2="ts1196">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит руки, правой ударяет по подушке, левой ударяет по ноге</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4177"
                 TIME_SLOT_REF1="ts1205" TIME_SLOT_REF2="ts1208">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>сводит руки ладонями к себе перед собой, немного трясёт</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4178"
                 TIME_SLOT_REF1="ts1211" TIME_SLOT_REF2="ts1217">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>разводит ладони, приводит левую ладонь к правой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4179"
                 TIME_SLOT_REF1="ts1218" TIME_SLOT_REF2="ts1225">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>с небольшим размахом поочерёдно ударяет боковыми сторонами ладоней по ноге и затем по воздуху</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4180"
                 TIME_SLOT_REF1="ts1227" TIME_SLOT_REF2="ts1239">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>вращательным движением поднимает кисти и с ударом опускает их на ногу, поворачивая ладони лицом к себе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4181"
                 TIME_SLOT_REF1="ts1243" TIME_SLOT_REF2="ts1258">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет боковой стороной левой ладони по ноге</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4182"
                 TIME_SLOT_REF1="ts1265" TIME_SLOT_REF2="ts1271">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>поворачивает направленные от себя ладони поочерёдно к себе сгибанием</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4183"
                 TIME_SLOT_REF1="ts1274" TIME_SLOT_REF2="ts1282">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет боковой стороной правой ладони по боковой стороне левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4184"
                 TIME_SLOT_REF1="ts1284" TIME_SLOT_REF2="ts1289">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>немного разворачивает вверх и ударяет боковой стороной правой ладони по левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4185"
                 TIME_SLOT_REF1="ts1292" TIME_SLOT_REF2="ts1295">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>слабо ударяет обратной стороной правой ладони по пальцам левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4186"
                 TIME_SLOT_REF1="ts1297" TIME_SLOT_REF2="ts1301">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет обратной стороной правой ладони по пальцам левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4187"
                 TIME_SLOT_REF1="ts1305" TIME_SLOT_REF2="ts1307">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>ударяет лицевой стороной правой ладони по внешней стороне левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4188"
                 TIME_SLOT_REF1="ts1309" TIME_SLOT_REF2="ts1312">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>с размахом ударяет лицевой стороной правой ладони по внешней стороне левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4189"
                 TIME_SLOT_REF1="ts1314" TIME_SLOT_REF2="ts1318">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>мотает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4190"
                 TIME_SLOT_REF1="ts1319" TIME_SLOT_REF2="ts1323">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>кивает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4191"
-                TIME_SLOT_REF1="ts1332" TIME_SLOT_REF2="ts1338">
-                <ANNOTATION_VALUE/>
+                TIME_SLOT_REF1="ts1332" TIME_SLOT_REF2="ts1335">
+                <ANNOTATION_VALUE>кивает головой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4307"
+                TIME_SLOT_REF1="ts1337" TIME_SLOT_REF2="ts1340">
+                <ANNOTATION_VALUE>ударяет лицевой стороной правой ладони по внешней стороне левой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -2716,8 +2724,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4207" ANNOTATION_REF="a4092" CVE_REF="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
-                <ANNOTATION_VALUE>hand, head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a4207" ANNOTATION_REF="a4092" CVE_REF="cveid_f85c17da-777a-4863-86e3-c66d69546328">
+                <ANNOTATION_VALUE>finger, hand, head</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2746,8 +2754,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4213" ANNOTATION_REF="a4098" CVE_REF="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
-                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a4213" ANNOTATION_REF="a4098" CVE_REF="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
+                <ANNOTATION_VALUE>hand, head</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3211,8 +3219,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4306" ANNOTATION_REF="a4191" CVE_REF="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
-                <ANNOTATION_VALUE>hand, head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a4306" ANNOTATION_REF="a4191" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4308" ANNOTATION_REF="a4307" CVE_REF="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -3688,7 +3701,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
-                TIME_SLOT_REF1="ts1328" TIME_SLOT_REF2="ts1339">
+                TIME_SLOT_REF1="ts1328" TIME_SLOT_REF2="ts1341">
                 <ANNOTATION_VALUE>я в свои шестнадцать лет я учился и работал</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -8959,25 +8972,25 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1124"
-                TIME_SLOT_REF1="ts1334" TIME_SLOT_REF2="ts1335">
+                TIME_SLOT_REF1="ts1334" TIME_SLOT_REF2="ts1336">
                 <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1125"
-                TIME_SLOT_REF1="ts1335" TIME_SLOT_REF2="ts1336">
+                TIME_SLOT_REF1="ts1336" TIME_SLOT_REF2="ts1338">
                 <ANNOTATION_VALUE>учился</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1126"
-                TIME_SLOT_REF1="ts1336" TIME_SLOT_REF2="ts1337">
+                TIME_SLOT_REF1="ts1338" TIME_SLOT_REF2="ts1339">
                 <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1127"
-                TIME_SLOT_REF1="ts1337" TIME_SLOT_REF2="ts1339">
+                TIME_SLOT_REF1="ts1339" TIME_SLOT_REF2="ts1341">
                 <ANNOTATION_VALUE>работал</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
