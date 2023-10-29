@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-29T03:54:09+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-29T14:35:23+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1969,7 +1969,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4142"
                 TIME_SLOT_REF1="ts819" TIME_SLOT_REF2="ts822">
-                <ANNOTATION_VALUE>в два шага раскрывает ладони</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>в два шага раскрывает ладони, смотрит направо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2367,7 +2367,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>дейктические жесты: общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2392,7 +2392,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a78">
-                <ANNOTATION_VALUE>риторические жесты: подчеркивать ритм фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2462,37 +2462,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4309" ANNOTATION_REF="a4077">
-                <ANNOTATION_VALUE>Жесты внутреннего состояния: возмущение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: возмущение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4310" ANNOTATION_REF="a4078">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4311" ANNOTATION_REF="a4079">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркнуть эмфазуРегулирующие жесты: побуждение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Регулирующий жест: побуждение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4312" ANNOTATION_REF="a4080">
-                <ANNOTATION_VALUE>Регулирующие жесты: побуждение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Регулирующий жест: побуждение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4313" ANNOTATION_REF="a4081">
-                <ANNOTATION_VALUE>Дейктические жесты: самоидентификация</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Дейктический жест: самоидентификация</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4314" ANNOTATION_REF="a4082">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркивать ритм фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4315" ANNOTATION_REF="a4083">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2502,7 +2502,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4317" ANNOTATION_REF="a4085">
-                <ANNOTATION_VALUE>Жесты внутреннего состояния: сосредоточенность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>действие: распределить</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2512,22 +2512,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4319" ANNOTATION_REF="a4087">
-                <ANNOTATION_VALUE>Жесты – речевые действия: перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4320" ANNOTATION_REF="a4088">
-                <ANNOTATION_VALUE>Жесты – речевые действия: перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4321" ANNOTATION_REF="a4089">
-                <ANNOTATION_VALUE>Жесты – речевые действия: перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4322" ANNOTATION_REF="a4090">
-                <ANNOTATION_VALUE>Жесты – речевые действия: перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2552,7 +2552,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4327" ANNOTATION_REF="a4095">
-                <ANNOTATION_VALUE>Жесты внутреннего состояния: что тут поделаешь!</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: что тут поделаешь!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2562,37 +2562,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4329" ANNOTATION_REF="a4097">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4330" ANNOTATION_REF="a4098">
-                <ANNOTATION_VALUE>Жесты внутреннего состояния: пренебрежение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: пренебрежение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4331" ANNOTATION_REF="a4099">
-                <ANNOTATION_VALUE>Жесты внутреннего состояния: Огорчение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: Огорчение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4332" ANNOTATION_REF="a4100">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркивать ритм фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4333" ANNOTATION_REF="a4101">
-                <ANNOTATION_VALUE>Риторические жесты: подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4334" ANNOTATION_REF="a4102">
-                <ANNOTATION_VALUE>Риторические жесты: новая тема</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4335" ANNOTATION_REF="a4103">
-                <ANNOTATION_VALUE>Риторические жесты: новая тема</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2602,442 +2602,442 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4337" ANNOTATION_REF="a4105">
-                <ANNOTATION_VALUE>Дейктические жесты: общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4338" ANNOTATION_REF="a4106">
-                <ANNOTATION_VALUE>Жесты – речевые действия: отрицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Жест – речевое действие: отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4339" ANNOTATION_REF="a4107">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4340" ANNOTATION_REF="a4108">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: круглый</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4341" ANNOTATION_REF="a4109">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: уверенность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4342" ANNOTATION_REF="a4110">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: высокая оценка</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4343" ANNOTATION_REF="a4111">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4344" ANNOTATION_REF="a4112">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4345" ANNOTATION_REF="a4113">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4346" ANNOTATION_REF="a4114">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4347" ANNOTATION_REF="a4115">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4348" ANNOTATION_REF="a4116">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: фиксация объекта</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4349" ANNOTATION_REF="a4117">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>действие: класть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4350" ANNOTATION_REF="a4118">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4351" ANNOTATION_REF="a4119">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4352" ANNOTATION_REF="a4120">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4353" ANNOTATION_REF="a4121">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: размер</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4354" ANNOTATION_REF="a4122">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: круглый</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4355" ANNOTATION_REF="a4123">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: вопрос</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4356" ANNOTATION_REF="a4124">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: недоумение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4357" ANNOTATION_REF="a4125">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: размер</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4358" ANNOTATION_REF="a4126">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>действие: бить</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4359" ANNOTATION_REF="a4127">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>направление: прочь</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4360" ANNOTATION_REF="a4128">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: недоумение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4361" ANNOTATION_REF="a4129">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Изобразительный жест</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4362" ANNOTATION_REF="a4130">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: размер</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4363" ANNOTATION_REF="a4131">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4364" ANNOTATION_REF="a4132">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4365" ANNOTATION_REF="a4133">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Изобразительный жест</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4366" ANNOTATION_REF="a4134">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: что тут поделаешь!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4367" ANNOTATION_REF="a4135">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: размер</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4368" ANNOTATION_REF="a4136">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4369" ANNOTATION_REF="a4137">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Изобразительный жест</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4370" ANNOTATION_REF="a4138">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>направление: по кругу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4371" ANNOTATION_REF="a4139">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4372" ANNOTATION_REF="a4140">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: размер</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4373" ANNOTATION_REF="a4141">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4374" ANNOTATION_REF="a4142">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4375" ANNOTATION_REF="a4143">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: Растерянность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4376" ANNOTATION_REF="a4144">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4377" ANNOTATION_REF="a4145">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Изобразительный жест</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4378" ANNOTATION_REF="a4146">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4379" ANNOTATION_REF="a4147">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: радость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4380" ANNOTATION_REF="a4148">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Этикетный жест: я слушаю</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4381" ANNOTATION_REF="a4149">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4382" ANNOTATION_REF="a4150">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4383" ANNOTATION_REF="a4151">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4384" ANNOTATION_REF="a4152">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4385" ANNOTATION_REF="a4153">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4386" ANNOTATION_REF="a4154">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: интенсивность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4387" ANNOTATION_REF="a4155">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4388" ANNOTATION_REF="a4156">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4389" ANNOTATION_REF="a4157">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4390" ANNOTATION_REF="a4158">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4391" ANNOTATION_REF="a4159">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4392" ANNOTATION_REF="a4160">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4393" ANNOTATION_REF="a4161">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: расстояние</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4394" ANNOTATION_REF="a4162">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4395" ANNOTATION_REF="a4163">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4396" ANNOTATION_REF="a4164">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4397" ANNOTATION_REF="a4165">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4398" ANNOTATION_REF="a4166">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркивать ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4399" ANNOTATION_REF="a4167">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: возражение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4400" ANNOTATION_REF="a4168">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Регулирующий жест: побуждение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4401" ANNOTATION_REF="a4169">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: возражение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4402" ANNOTATION_REF="a4170">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: возражение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4403" ANNOTATION_REF="a4171">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Дейктический жест: фиксация объекта</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4404" ANNOTATION_REF="a4172">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4405" ANNOTATION_REF="a4173">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: предвосхищение согласия</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4406" ANNOTATION_REF="a4174">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4407" ANNOTATION_REF="a4175">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: расстояние</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4408" ANNOTATION_REF="a4176">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: расстояние</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4409" ANNOTATION_REF="a4177">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: расстояние</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4410" ANNOTATION_REF="a4178">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: расстояние</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4411" ANNOTATION_REF="a4179">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4412" ANNOTATION_REF="a4180">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4413" ANNOTATION_REF="a4181">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4414" ANNOTATION_REF="a4182">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4415" ANNOTATION_REF="a4183">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4416" ANNOTATION_REF="a4184">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест внутреннего состояния: недовольство</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4417" ANNOTATION_REF="a4185">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4418" ANNOTATION_REF="a4186">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4419" ANNOTATION_REF="a4187">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4420" ANNOTATION_REF="a4188">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4421" ANNOTATION_REF="a4189">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4422" ANNOTATION_REF="a4190">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4423" ANNOTATION_REF="a4191">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Жест – речевое действие: подтверждение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4424" ANNOTATION_REF="a4307">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>качество: интенсивность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -3554,8 +3554,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4257" ANNOTATION_REF="a4142" CVE_REF="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
-                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a4257" ANNOTATION_REF="a4142" CVE_REF="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
+                <ANNOTATION_VALUE>hand, head</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19638,6 +19638,12 @@
             <CVE_VALUE DESCRIPTION="numeral" LANG_REF="und">NUM</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="gestMeanings">
+        <DESCRIPTION LANG_REF="und">Значения жестов</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_a067d1db-b993-401c-b41e-cb09ee8c9882">
+            <CVE_VALUE LANG_REF="und">Жест – речевое действие:</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
         <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_9f71f117-fafa-4585-9d8f-b545750a3da7">
@@ -19651,12 +19657,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_709e44da-8c2e-4e76-82f8-e5dfd35edb61">
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="gestMeanings">
-        <DESCRIPTION LANG_REF="und">Значения жестов</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_a067d1db-b993-401c-b41e-cb09ee8c9882">
-            <CVE_VALUE LANG_REF="und">Жесты – речевые действия:</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
